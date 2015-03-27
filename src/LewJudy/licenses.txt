@@ -1,0 +1,5 @@
+﻿***** BEGIN LICENSE BLOCK *****
+Software:
+Url:
+License:
+***** END LICENSE BLOCK *****

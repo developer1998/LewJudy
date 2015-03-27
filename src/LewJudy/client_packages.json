@@ -1,0 +1,8 @@
+﻿[
+	{ "Name": "bootstrap", "Version": "3.3.2" },
+	{ "Name": "bootstrap_touch_carousel", "Version": "0.8.0" },
+	{ "Name": "hammerjs", "Version": "2.0.4" },
+	{ "Name": "jquery", "Version": "1.11.2" },
+	{ "Name": "jquery_validation", "Version": "1.13.1" },
+	{ "Name": "jquery_validation_unobtrusive", "Version": "3.2.2" }
+]

@@ -1,0 +1,38 @@
+{
+  "name": "LewJudy",
+  "private": true,
+  "dependencies": {
+	"bootstrap": "~3.3.2",
+	"bootstrap-touch-carousel": "0.8.0",
+    "jquery": "^1.11.2",
+    "jquery-validation": "~1.13.1",
+    "jquery-validation-unobtrusive": "~3.2.2",
+    "hammer.js": "~2.0.4"
+  },
+  "exportsOverride": {
+    "bootstrap": {
+      "js": "dist/js/*.*",
+      "css": "dist/css/*.*",
+      "fonts": "dist/fonts/*.*"
+    },
+    "bootstrap-touch-carousel": {
+      "js": "dist/js/bootstrap-touch-carousel.{js,min.js}",
+      "css": "dist/css/bootstrap-touch-carousel.{css,min.css}"
+    },
+    "jquery": {
+      "": "dist/jquery.{js,min.js,min.map}"
+    },
+    "jquery-validation": {
+      "": [
+        "dist/jquery.validate.{js,min.js}",
+        "dist/additional-methods.{js,min.js}"
+      ]
+    },
+    "jquery-validation-unobtrusive": {
+      "": "dist/jquery.validate.unobtrusive.{js,min.js}"
+    },
+    "hammer.js": {
+      "": "dist/hammer.{js,min.js,min.map}"
+    }
+  }
+}
